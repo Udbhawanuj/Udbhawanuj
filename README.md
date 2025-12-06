@@ -30,9 +30,6 @@
 
 ---
 
-
----
-
 ## 💻 Tech Stack
 
 <p align="left">
@@ -73,7 +70,7 @@
 
 <p align="left">
 
-📧 **udbhawanuj53@gmail.com**  
+📧 **your.email@example.com**  
 <br/>
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
@@ -83,3 +80,4 @@
 </p>
 
 ---
+
