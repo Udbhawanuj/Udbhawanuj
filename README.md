@@ -30,26 +30,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Gifted Veins — Blood Donation Platform  
-A full-stack platform connecting donors, recipients, and organizations with smart donor–recipient matching and automated certificate generation.  
-**Tech:** Node.js, Express.js, MongoDB, EJS  
-🔗 *[View Repository](https://github.com/Udbhawanuj/Gifted-Veins)*
-
----
-
-### 🔹 Lost & Found Management Web Application  
-Campus-focused Lost & Found portal where users can post and claim lost items with image + metadata-based matching and QR-based verification.  
-**Tech:** React.js, Supabase (PostgreSQL), TailwindCSS / Bootstrap*  
-🔗 *[View Repository](https://github.com/Udbhawanuj/Lost-and-Found)*
-
----
-
-### 🔹 Portfolio Website  
-Personal portfolio to showcase projects, achievements, and skills with a responsive and clean UI.  
-**Tech:** HTML, CSS, JavaScript / React.js  
-🔗 *[View Repository](https://github.com/Udbhawanuj/portfolio)*
 
 ---
 
