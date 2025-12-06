@@ -1,23 +1,25 @@
-<h1 align="center">Hi 👋, I'm Udbhaw Anuj</h1>
-<h3 align="center">Computer Science Undergrad | Full-Stack Developer | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm <strong>Udbhaw Anuj</strong></h1>
+<h3 align="center">Computer Science Undergrad • Full-Stack Developer • Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Udbhawanuj&label=Profile%20Views&color=9b59b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Udbhawanuj&label=Profile%20Views&color=8e44ad&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-💻 3rd-year **B.Tech CSE** student at **KIIT University**  
-💡 Passionate about building clean, scalable **full-stack web applications**  
-🧠 Strong foundation in **DSA, OOP, DBMS, OS, Computer Networks**  
-🌱 Currently exploring **Cloud, Backend Architecture & System Design**  
-📍 Based in **Dhanbad, Jharkhand → Bhubaneswar, Odisha**  
+I’m a 3rd-year **Computer Science Engineering** student at **KIIT University**, passionate about building clean, scalable, and efficient digital solutions.  
+My interest lies in **full-stack web development**, **backend systems**, and understanding how real-world software architecture works.
+
+- 🧠 Strong understanding of **DSA, OOP, DBMS, OS, CN**  
+- 🌱 Currently learning **Cloud, Backend Architecture & System Design**  
+- 🏙️ Based in **Dhanbad, Jharkhand → Bhubaneswar, Odisha**  
+- 🎯 Focused on writing **readable, maintainable & production-ready code**
 
 ---
 
-## 🛠️ Skills 
+## 🛠️ Skills Overview
 
 | Category | Technologies |
 |---------|--------------|
@@ -25,8 +27,8 @@
 | **Frontend** | HTML, CSS, React.js, Bootstrap |
 | **Backend** | Node.js, Express.js |
 | **Databases** | SQL (Relational), Supabase, MongoDB |
-| **Core CS** | Data Structures & Algorithms, OOP, DBMS, OS, CN |
-| **Developer Tools** | Git, GitHub, VS Code |
+| **Core CS** | DSA, OOP, DBMS, OS, CN |
+| **Tools** | Git, GitHub, VS Code |
 
 ---
 
@@ -61,12 +63,11 @@
 ---
 
 ## 📄 Resume  
-
-👉 **[Click here to view my resume](https://drive.google.com/file/d/1R0_GOFCjkAxvkM_SB5ePNQbKoPjUQmFf/view?usp=drivesdk)**
+📌 **[View My Resume](https://drive.google.com/file/d/1R0_GOFCjkAxvkM_SB5ePNQbKoPjUQmFf/view?usp=drivesdk)**
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect With Me  
 
 <p align="left">
 
@@ -80,4 +81,3 @@
 </p>
 
 ---
-
