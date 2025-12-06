@@ -70,10 +70,10 @@
 
 <p align="left">
 
-📧 **your.email@example.com**  
+📧 **udbhawanuj53@gmail.com**  
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
+<a href="https://www.linkedin.com/in/udbhaw-anuj-a05190320/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
