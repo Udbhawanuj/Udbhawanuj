@@ -63,7 +63,7 @@ My interest lies in **full-stack web development**, **backend systems**, and und
 ---
 
 ## 📄 Resume  
-📌 **[View My Resume](https://drive.google.com/file/d/1R0_GOFCjkAxvkM_SB5ePNQbKoPjUQmFf/view?usp=drivesdk)**
+📌 **[View My Resume](https://drive.google.com/file/d/1N0TgsbF0SMRgtHB8n8lXuRObK5B0iQ1B/view?usp=sharing)**
 
 ---
 
