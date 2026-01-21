@@ -71,7 +71,7 @@ My interest lies in **full-stack web development**, **backend systems**, and und
 
 <p align="left">
 
-📧 **udbhawanuj53@gmail.com**  
+📧 **udbhawanuj@gmail.com**  
 <br/>
 
 <a href="https://www.linkedin.com/in/udbhaw-anuj-a05190320/" target="_blank">
