@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I’m a 3rd-year **Computer Science Engineering** student at **KIIT University**, passionate about building clean, scalable, and efficient digital solutions.  
+I’m a 4th-year **Computer Science Engineering** student at **KIIT University**, passionate about building clean, scalable, and efficient digital solutions.  
 My interest lies in **full-stack web development**, **backend systems**, and understanding how real-world software architecture works.
 
 - 🧠 Strong understanding of **DSA, OOP, DBMS, OS, CN**  
